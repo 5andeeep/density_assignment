@@ -464,8 +464,6 @@ export const GlobalStyles = createGlobalStyle`
 
 
 
-
-
     // Footer styling
     .footer{
         width: 100%;
