@@ -1,0 +1,8 @@
+*{
+    color: rgb(211, 250, 56);
+    color: rgb(173, 241, 70);
+    color: rgb(48, 217, 116);
+    color: rgb(153, 237, 79);
+    color: rgb(233, 255, 36);
+    box-shadow: rgba(211, 250, 56, 0.1) 0px 1px 0px, rgba(173, 241, 70, 0.1) 0px 8px 24px, rgba(48, 217, 116, 0.1) 0px 16px 48px;
+}
